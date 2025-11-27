@@ -1,6 +1,6 @@
 # Hi, I'm Elijah 👋
 
-I'm a developer who loves building tools that help people save time and money, and I enjoy projects like mock operating systems in Python and mock social media platforms like SciConnect.  
+I'm a developer who loves building. For example, I enjoy projects like mock operating systems in Python and mock social media platforms like SciConnect.  
 Currently working on **SaveCatcher**, a privacy-first platform for detecting subscriptions and price hikes from bank statements. all processed locally.
 
 ### 🚀 What I'm Working On
