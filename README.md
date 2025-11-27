@@ -18,5 +18,3 @@ PostgreSQL.
 ### 📫 Contact
 - Email: `elijah.dalton908@gmail.com`  
 - Twitter: (@ElijahMorr33758)
-
----
