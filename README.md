@@ -16,5 +16,4 @@ PostgreSQL.
 - **Other:** Docker, Git, Firebase, OpenAI APIs
 
 ### 📫 Contact
-- Email: `elijah.dalton908@gmail.com`  
 - Twitter: (@ElijahMorr33758)
