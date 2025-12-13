@@ -1,4 +1,4 @@
-# Hi, I'm Elijah 👋
+# Hi, I'm Elijah Morris, Founder of SaveCatcher 👋
 
 I'm a developer who loves building. For example, I enjoy projects like mock operating systems in Python and mock social media platforms like SciConnect.  
 Currently working on **SaveCatcher**, a privacy-first platform for detecting subscriptions and price hikes from bank statements. all processed locally.
@@ -16,4 +16,5 @@ PostgreSQL.
 - **Other:** Docker, Git, Firebase, OpenAI APIs
 
 ### 📫 Contact
+- help.savecatcher@gmail.com
 - Twitter: (@ElijahMorr33758)
