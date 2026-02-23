@@ -17,4 +17,4 @@ PostgreSQL.
 
 ### 📫 Contact
 - help.savecatcher@gmail.com
-- Twitter: (@ElijahMorr33758)
+- LinkedIn: https://www.linkedin.com/in/elijah-morris-88211622a/
