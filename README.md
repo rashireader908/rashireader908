@@ -1,20 +1,20 @@
-# Hi, I'm Elijah Morris 👋
+Hi, I'm Elijah Morris 👋
 
-I'm a developer who loves building. For example, I enjoy projects like mock operating systems in Python and mock social media platforms like SciConnect.  
-Currently working on **SaveCatcher**, a privacy-first platform for detecting subscriptions and price hikes from bank statements. all processed locally.
+I'm a developer who loves to build. I'm drawn to ambitious projects — from mock operating systems in Python to full social platforms like SciConnect, and I care a lot about shipping things that actually work.
 
-### 🚀 What I'm Working On
-- SaveCatcher (subscription + finance insights)
-- AI tools & small automation projects
-- Improving my full-stack + ML skills
+## 🚀 What I'm Building
 
-### 🧰 Tech Stack
-- **Languages:** JavaScript, Python, TypeScript, C, 
-PostgreSQL.  
-- **Frontend:** React, Next.js, Tailwind, CSS, HTML.
-- **Backend:** Node.js, Flask, Supabase  
-- **Other:** Docker, Git, Firebase, OpenAI APIs
+N/A
 
-### 📫 Contact
-- help.savecatcher@gmail.com
-- LinkedIn: https://www.linkedin.com/in/elijah-morris-88211622a/
+## 🧰 Tech Stack
+
+**Languages:** JavaScript · TypeScript · Python · C · SQL (PostgreSQL)
+**Frontend:** React · Next.js · Tailwind · HTML/CSS
+**Backend:** Node.js · Flask · Supabase
+**Tooling & Infra:** Docker · Git · Firebase · OpenAI API
+
+## 📫 Get in Touch
+
+- **Email:** help.savecatcher@gmail.com
+- **LinkedIn:** [elijah-morris](https://www.linkedin.com/in/elijah-morris-88211622a/)
+Done — SaveCatcher removed, "What I'm Building" set to N/A. Want me to swap out that email too, since it was the SaveCatcher one?
