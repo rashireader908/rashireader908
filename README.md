@@ -17,4 +17,3 @@ N/A
 
 - **Email:** help.savecatcher@gmail.com
 - **LinkedIn:** [elijah-morris](https://www.linkedin.com/in/elijah-morris-88211622a/)
-Done — SaveCatcher removed, "What I'm Building" set to N/A. Want me to swap out that email too, since it was the SaveCatcher one?
